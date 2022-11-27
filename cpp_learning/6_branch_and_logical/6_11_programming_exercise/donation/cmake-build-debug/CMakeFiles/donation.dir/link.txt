@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/donation.dir/donation.cpp.o -o donation 

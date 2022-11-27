@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/jump.dir/jump.cpp.o -o jump 
