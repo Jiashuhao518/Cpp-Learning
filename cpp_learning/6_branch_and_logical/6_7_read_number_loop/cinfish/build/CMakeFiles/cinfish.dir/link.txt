@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cinfish.dir/cinfish.cpp.o -o cinfish 
